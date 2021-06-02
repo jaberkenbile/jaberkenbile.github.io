@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## code.berkenbile.net
 
-You can use the [editor on GitHub](https://github.com/jaberkenbile/jaberkenbile.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A random repository of code examples I find useful
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PowerShell 
+
+[Send-MailMessage vs Send-MailKitMessage](https://github.com/jaberkenbile/jaberkenbile.github.io/tree/main/send-mailkitmessage_usage)
+[Link](https://github.com/austineric/Send-MailKitMessage) to the Send-MailKitMessage module.
 
 ### Markdown
 
@@ -27,7 +30,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[send](https://github.com/jaberkenbile/jaberkenbile.github.io/tree/main/send-mailkitmessage_usage)
+
 
 ### Jekyll Themes
 
