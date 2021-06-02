@@ -1,12 +1,12 @@
 ## code.berkenbile.net
 
-A random repository of code examples I find useful
+A random repository of code examples I have found useful.
 
 ### PowerShell 
-
+```
 [Send-MailMessage vs Send-MailKitMessage](https://github.com/jaberkenbile/jaberkenbile.github.io/blob/main/send-mailkitmessage_usage/send-mailkitmessage_example.ps1)  
 [Link](https://github.com/austineric/Send-MailKitMessage) to the Send-MailKitMessage module.
-
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
