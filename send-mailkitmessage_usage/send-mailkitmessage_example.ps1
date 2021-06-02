@@ -5,7 +5,7 @@ $credential = New-Object System.Management.Automation.PSCredential ($smtpUserNam
 $smtpServer = 'SMTPSRV'
 $port = 25
 $fromaddress = (hostname -s) + "@" + (hostname -d)
-$recipientList = $to = 'alerts@abc.org'
+$recipientList = $to = 'alerts@berkenbile.net'
 
 <# 
 WARNING: The command 'Send-MailMessage' is obsolete. This cmdlet does not guarantee secure connections to SMTP servers. 
