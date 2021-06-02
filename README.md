@@ -4,7 +4,7 @@ A random repository of code examples I find useful
 
 ### PowerShell 
 
-[Send-MailMessage vs Send-MailKitMessage](https://github.com/jaberkenbile/jaberkenbile.github.io/tree/main/send-mailkitmessage_usage)
+[Send-MailMessage vs Send-MailKitMessage](https://github.com/jaberkenbile/jaberkenbile.github.io/blob/main/send-mailkitmessage_usage/send-mailkitmessage_example.ps1)  
 [Link](https://github.com/austineric/Send-MailKitMessage) to the Send-MailKitMessage module.
 
 ### Markdown
